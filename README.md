@@ -63,7 +63,7 @@ Some of my design works can be found here
 
 ![2](3.png)
 ![3](2.png)
-![main card 2](main card 2.png)
+![main card 2](main%20card%202.png)
 
 ---
 
